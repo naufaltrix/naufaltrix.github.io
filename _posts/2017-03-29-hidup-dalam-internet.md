@@ -21,5 +21,7 @@ hal yang baru dan juga sesuatu yang memang jarang orang gunakan.
 Intinya internet bisa digunakan dalam kehidupan yang aman & damai atau merusak bahkan menghancurkan sesuatu.
 
 ``` markdown
-Tidak ada data yang aman, tidak ada internet yang sehat, tidak ada internet yang baik
+Tidak ada data yang aman, tidak ada internet yang sehat !
 ```
+Semoga tulisan ini tidak membantu anda sama sekali dalam mengerti internet dan juga kalian tetap belajar berinternet yang baik.
+karena dalam internet kawan bisa menjadi lawan, dan lawan bisa berpura-pura menjadi kawan.
