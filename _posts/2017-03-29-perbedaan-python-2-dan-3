@@ -23,3 +23,5 @@ print ("Hello world, python")
 
 Keliatan lebih rapih sih kalau pake python 3 karena ada penambahan kurung kurawalnya, semoga bisa membantu yang baru belajar juga
 kenapa pas di compile tidak bisa dan error.
+
+<pre>print("Selamat belajar python")</pre>
