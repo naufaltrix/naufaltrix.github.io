@@ -30,12 +30,12 @@ varName = "Belajar Python Pemula"
 varAddres = "Cibinong"
 varSkill = "Python"
 
-print(str) # Result :  Belajar Python Pemula
-print(str[0]) # Result : B
-print(str[0:6]) # Result : Belajar
-print(str[1:]) # Result : elajar
-print(str * 2) # Result : Belajar Python PemulaBelajar Python Pemula
-print("Nama saya adalah : " + str + " " + "Alamat = " + varAddres + " " + "Skill = " + varSkill)
+print(varName) # Result :  Belajar Python Pemula
+print(varName[0]) # Result : B
+print(varName[0:6]) # Result : Belajar
+print(varName[1:]) # Result : elajar
+print(varName * 2) # Result : Belajar Python PemulaBelajar Python Pemula
+print("Nama saya adalah : " + varName + " " + "Alamat = " + varAddres + " " + "Skill = " + varSkill)
 # Result : Nama saya adalah : Belajar Python Pemula Alamat = Cibinong Skill = Python
 ```
 
