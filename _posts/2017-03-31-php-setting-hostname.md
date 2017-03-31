@@ -5,14 +5,21 @@ tags: [sql, shitpost]
 comment: true
 ---
 
-Setting php hosting di php, lumayan buat atur path
+Setting nama server di php denga menggunakan $_SERVER.
+Kalau mau liat lebih lanjut bisa cari di $_SERVER seperti script dibawah.
+```php
+<?php
+  print_r($_SERVER);
+?>
+```
+Contoh mengatur url untuk browser :
 
 ```php
 <?php
-	$setHostName = $_SERVER['REQUEST_SCHEME'].'://'.$_SERVER['SERVER_NAME'].'/'.
+	$setHostName = $_SERVER['REQUEST_SCHEME'].'://'.$_SERVER['SERVER_NAME'].
 	$_SERVER['REQUEST_URI'];
 	
-	print($setHostName); //Result = http://localhost//trush/php7/set_server.php
+	print($setHostName); //Result = http://localhost/trush/php7/set_server.php
 ?>
 ```
 
